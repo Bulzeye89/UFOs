@@ -12,7 +12,7 @@ Dana has provided data surrounding UFO sightings in a JavaScript array.  With th
 The website is up and running and the additional filters have been added.  We have removed the "filter" button.  The below screenshot shows the initial look users will see and they can choose what filters to use.  
 
 <p float="left">
-<img src="(https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFO_readme_pic1.png)" 
+<img src="https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFO_readme_pic1.png" 
 </p>  
 
 <p float="left">
