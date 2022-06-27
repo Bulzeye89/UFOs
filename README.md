@@ -13,10 +13,12 @@ The website is up and running and the additional filters have been added.  We ha
 <p float="left">
 <img src="https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFO_readme_pic1.png" 
 </p>  
+<br>
 Users will be able to type in one of the fields and press enter, which will prompt the data table to update.  From here users, can further filter the results by typing into the four remaining fields.  If they wish to remove a filter, they can simply delete the input and press enter.  Below is an example of a search by filtering the state as "fl" and the shape as "fireball"
 <p float="left">
 <img src="https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFOreadme_pic2.png" 
-</p>  
+</p>
+<br>
 Here is another example where the data table is filtered with the state as "ca" and the date as "1/4/2010"
 <p float="left">
 <img src="https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFOreadme_pic3.png" 
