@@ -24,6 +24,9 @@ Here is another example where the data table is filtered with the state as "ca" 
 
 ## Summary: 
 ### Drawbacks
-  
+While the website is functional and can filter the data successfully, it does have some drawbacks.
+  1. The filter inputs are not the most intuitive.  It assumes users will know that the inputs are case sensitive and need to be put in all lower case and in the exact format of values of data in the table.  Some users may capitalize in the fields of city, state, and country as these are proper nouns.  Also, they may try spelling these inputs out fully instead of using the abbreviation.  
+  2.  The data set is fairly limited in both timeframe and locations.  Currently, it only contains sightings from 1/1/2010 to 1/13/2010 in the United States and Canada.  
   
 ### Recommendations
+  
