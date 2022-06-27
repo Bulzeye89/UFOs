@@ -9,12 +9,11 @@ Dana has provided data surrounding UFO sightings in a JavaScript array.  With th
 -Software: Visual Studio Code version 1.68.1, Javascript, HTML
 
 ## Results
-The website is up and running and the additional filters have been added.  We have removed the "filter" button.  The below screenshot shows the initial look users will see and they can choose what filters to use.  
-
+The website is up and running and the additional filters have been added.  We have removed the "filter" button and users will see placeholders in the five different fields that can be used to analyze the data.  
 <p float="left">
 <img src="https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFO_readme_pic1.png" 
 </p>  
-
+Users will be able to type in one of the fields and press enter, which will prompt the data table to update.  From here users, can further filter the results by typing into the four remaining fields.  If they wish to remove a filter, they can simply delete the input and press enter.  Below is an example of a search by filtering the state as "fl" and the shape as "fireball"
 <p float="left">
 <img src="(https://github.com/Bulzeye89/UFOs/blob/main/Resources/UFOreadme_pic2.png)" 
 </p>  
