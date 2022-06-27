@@ -29,4 +29,7 @@ While the website is functional and can filter the data successfully, it does ha
   2.  The data set is fairly limited in both timeframe and locations.  Currently, it only contains sightings from 1/1/2010 to 1/13/2010 in the United States and Canada.  
   
 ### Recommendations
+Some recommendations to improve the sight going forward and overcome the above limitations are:
+  1. The input fields/filters could be made less stringent using an autofill option as a user types or perhaps the input fields could be changed to drop down menus instead.  
+  2. It would be a great addition to pull data from a global live source so that the data table is continuously updated and current as well as not limited to just the two countries.  
   
